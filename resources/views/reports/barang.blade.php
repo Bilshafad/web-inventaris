@@ -57,7 +57,7 @@
     }
 </style>
 
-</head> <body> <div class="kop-surat"> <img src="{{ public_path('logo-ut.png') }}" alt="Logo UT"> <div class="kop-text"> <h1>Universitas Terbuka Bandung</h1> <p>Jl. Raya Panyileukan No.1A, Cipadung Kidul, Kec. Panyileukan, Kota Bandung, Jawa Barat 40614</p> <p>Telp. 022-7801791 | Email: bandung@ecampus.ut.ac.id</p> </div> </div>
+</head> <body> <div class="kop-surat"><div class="kop-text"> <h1>Universitas Terbuka Bandung</h1> <p>Jl. Raya Panyileukan No.1A, Cipadung Kidul, Kec. Panyileukan, Kota Bandung, Jawa Barat 40614</p> <p>Telp. 022-7801791 | Email: bandung@ecampus.ut.ac.id</p> </div> </div>
 <h2>Laporan Inventaris Barang</h2>
 
 <table>
