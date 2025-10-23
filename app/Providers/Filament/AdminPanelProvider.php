@@ -27,7 +27,7 @@ class AdminPanelProvider extends PanelProvider
             ->id('admin')
             ->path('admin')
             ->brandName('UT Bandung')
-            
+            ->favicon(('logo-ut.ico'))
             ->login()
             ->colors([
                 'primary' => Color::Blue,
